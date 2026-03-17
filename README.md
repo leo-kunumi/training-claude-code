@@ -35,6 +35,7 @@ Create virtual environment and install the libraries. You can use Visual Studio 
 - [Get started with Python](https://platform.claude.com/docs/en/get-started#python)
 - [How Claude Code works](https://code.claude.com/docs/en/how-claude-code-works)
 - [anthropic api fundamentals](https://github.com/anthropics/courses/tree/master/anthropic_api_fundamentals)
+- [Anthropic's Prompt Engineering Interactive Tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
 - [Prompting best practices](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices)
 - [GitHub Spec Kit Tutorial with Claude Code: The End of Vibe Coding?](https://youtu.be/-9obEHJkQc8)
 - [structured outputs](https://platform.claude.com/docs/en/build-with-claude/structured-outputs)
